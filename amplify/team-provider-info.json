@@ -1,0 +1,14 @@
+{
+    "prequal": {
+        "awscloudformation": {
+            "AuthRoleName": "prequal-kyc-ll-20181212223409-authRole",
+            "UnauthRoleArn": "arn:aws:iam::804165849592:role/prequal-kyc-ll-20181212223409-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::804165849592:role/prequal-kyc-ll-20181212223409-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "prequal-kyc-ll-20181212223409-deployment",
+            "UnauthRoleName": "prequal-kyc-ll-20181212223409-unauthRole",
+            "StackName": "prequal-kyc-ll-20181212223409",
+            "StackId": "arn:aws:cloudformation:us-west-2:804165849592:stack/prequal-kyc-ll-20181212223409/0a848cc0-fe5e-11e8-b2a7-503ac9841afd"
+        }
+    }
+}
